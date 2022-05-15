@@ -1,0 +1,6 @@
+{
+	"appId": "com.biblioteca3ds2",
+	"appName": "AppBiblioteca",
+	"webDir": "dist/app-biblioteca",
+	"bundledWebRuntime": false
+}
